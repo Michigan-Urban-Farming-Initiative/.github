@@ -9,8 +9,8 @@
 [Teck Stack](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#tech-stack) | 
 [Testing](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#testing-front-end) |
 [Git Flow Procedures](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#gitflo-procedures-and-guidlines) |
-[Front-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/MUFI/tree/main/mufi-fe#readme) |
-[Back-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/MUFI/tree/main/mufi-be#readme) |
+[Front-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/FE_MUFI#readme) |
+[Back-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/BE_MUFI#readme) |
 
 ---
 
