@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-[Contributors](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#mufi-contributors)
-[Project Overview](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#save-this-job-project-overview)
-[Teck Stack](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#tech-stack)
-[Testing](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#testing-front-end)
-[Git Flow Procedures](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#gitflo-procedures-and-guidlines)
-[Front-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/MUFI/tree/main/mufi-fe#readme)
-[Back-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/MUFI/tree/main/mufi-be#readme)
+[Contributors](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#mufi-contributors) | 
+[Project Overview](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#save-this-job-project-overview) | 
+[Teck Stack](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#tech-stack) | 
+[Testing](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#testing-front-end) |
+[Git Flow Procedures](https://github.com/Michigan-Urban-Farming-Initiative/MUFI#gitflo-procedures-and-guidlines) |
+[Front-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/MUFI/tree/main/mufi-fe#readme) |
+[Back-end Docs](https://github.com/Michigan-Urban-Farming-Initiative/MUFI/tree/main/mufi-be#readme) |
 
 ---
 
